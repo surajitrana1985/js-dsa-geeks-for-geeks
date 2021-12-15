@@ -1,0 +1,27 @@
+{
+  "name": "js-dsa-geeks-for-geeks",
+  "version": "1.0.0",
+  "description": "This is an ongoing lecture problem set from Geeks for Geeks DSA self paced course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajitrana1985/js-dsa-geeks-for-geeks.git"
+  },
+  "keywords": [
+    "Datastructures",
+    "Algorithms",
+    "Javascript"
+  ],
+  "author": "surajitrana1985",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajitrana1985/js-dsa-geeks-for-geeks/issues"
+  },
+  "homepage": "https://github.com/surajitrana1985/js-dsa-geeks-for-geeks#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
