@@ -4,7 +4,7 @@
   "description": "This is an ongoing lecture problem set from Geeks for Geeks DSA self paced course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "array-search-item": "nodemon ./dsa-basics/arrays/array-search-item.js"
   },
   "repository": {
     "type": "git",
